@@ -1,2 +1,3 @@
-# dvd_tools
-Tools for managing files from DVDs
+# DVD Tools
+
+Scripts to help manage backing up DVDs
